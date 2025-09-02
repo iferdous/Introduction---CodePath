@@ -9,3 +9,6 @@ Optional Features
 1. User can tap a button to change the color of the background view
 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
 4. Any stylistic changes that are not default options (Comment this here)
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-02 at 14 24 27" src="https://github.com/user-attachments/assets/4d572cae-bd96-49e7-a020-d18b12eace24" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-02 at 14 24 22" src="https://github.com/user-attachments/assets/9be07d28-50c5-4bf3-8f0a-a2e194d3ab10" />
